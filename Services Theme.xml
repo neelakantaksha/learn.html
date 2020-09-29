@@ -493,9 +493,6 @@ ul.infopay li span.number {font-size:16px;}
 <b:if cond='data:blog.pageType == &quot;item&quot; and data:blog.pageType != &quot;error_page&quot;'>
 <style amp-custom='amp-custom'>
 /*=======================POSTAGE
-TEMPLATE NAME: PURPLEAMP
-AUTHOR: BASRI MATINDAS
-DESIGN: https://www.goomsite.net
 ================================*/
 
 /* Google Font Montserrat */
