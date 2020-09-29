@@ -80,11 +80,7 @@
 <b:if cond='data:blog.pageType != &quot;static_page&quot; and data:blog.pageType != &quot;item&quot; and data:blog.pageType != &quot;error_page&quot;'>
 <style amp-custom='amp-custom'>
 /*=======================HOMEPAGE
-TEMPLATE NAME: PURPLEAMP
-AUTHOR: BASRI MATINDAS
-DESIGN: https://www.goomsite.net
 ================================*/
-
 /* Google Font Montserrat */
 @font-face {
   font-family: &#39;Montserrat&#39;;
